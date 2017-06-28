@@ -1,0 +1,84 @@
+﻿body{
+	background-color:#2E2E2E;
+	font-family: helvetica,tahoma,Sans-serif;
+	font-size: 13px;
+}
+#A{
+	position: relative;
+	border: 1px solid #CCCCCC;
+	width: 1280px;
+	height: 800px;
+	top:110px;
+	left: 25px;
+    }
+#B{
+	position:relative;
+	font-size: 40px;
+	width:250px;
+	height: 60px;
+	color: white;
+	left: 20px;
+	top:10px;
+background: rgba(250,250,250,0.3);
+}
+
+#D{
+	position: relative;
+	width: 250px;
+	height: 50px;
+	left: 1010px;
+	top: 580px;
+	color: white;
+	background: rgba(250,250,250,0.3);
+	font-size: 25px;
+}
+#C{
+	position: relative;
+	width: 150px;
+	height: 28px;
+	left:1100px;
+	top: -50px;
+	color: white;
+	background: rgba(250,250,250,0.3);
+	font-size: 20px;
+}
+#E{
+	position: relative;
+	border: 1px solid #CCCCCC;
+	width: 1250px;
+	height: 640px;
+	left: 15px;
+	top: -60px;
+}
+#F{
+	position: relative;
+	border: 1px solid #CCCCCC;
+	width: 1000px;
+	height: 400px;
+	color: white;
+	left: 120px;
+	top: 10px;
+}
+#G{
+	position: relative;
+	width: 1000px;
+	height: 150px;
+	left: 120px;
+	top: 20px;
+	background: rgba(250,250,250,0.3);
+}
+#welcomeBack{
+    position :relative;
+    left:1100px;
+    color: white;
+}
+.login:link{ color :white;text-decoration:none; font-size:17px;}
+.login:hover{ color :white;text-decoration:underline; font-size:17px;}
+.login:active{ color :white ;text-decoration:underline; font-size:17px;}
+.login:visited{ color :white;text-decoration:none; font-size:17px;}
+#logo{
+    width:30%;
+    height:20%;
+    position:absolute;
+    left:45px;
+}
